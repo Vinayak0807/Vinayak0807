@@ -1,5 +1,14 @@
 # 💫 About Me:
-🎓 Graduated with a Bachelor's degree in Business Administration (BBA) 🚀 eager to launch a career in data analytics. Passionate about data-driven decision-making and equipped with foundational skills in Python, SQL, Power BI, and advanced Excel.<br><br>Skills:<br><br>🐍 Python: Proficient in data analysis and automation.<br>📊 SQL: Skilled in database querying and data manipulation.<br>📈 Power BI: Familiar with creating data visualizations.<br>📚 Advanced Excel: Proficient in Excel for data analysis.<br>Aspirations:<br>I'm excited to embark on my journey in the field of data analytics 🌟, where I aim to apply my knowledge and skills to solve real-world challenges. I'm committed to continuous learning 📚 and seeking opportunities to grow in this dynamic field. Open to internships, projects, and mentorship to gain hands-on experience and make a meaningful impact 💡.<br><br>Let's connect and explore opportunities together! 🤝
+Pursuing an MBA in Business Analytics with a strong interest in data-driven decision-making. Equipped with foundational skills in Python, SQL, Power BI, and advanced Excel, I am eager to apply my learning to real-world business challenges.
+
+Skills:
+
+Python: Proficient in data analysis and automation.
+SQL: Skilled in database querying and data manipulation.
+Power BI: Familiar with creating data visualizations.
+Advanced Excel: Proficient in Excel for data analysis.
+Aspirations:
+As I pursue my MBA in Business Analytics, I am excited to deepen my expertise and apply my skills in data analytics to solve business challenges. I am committed to continuous learning and actively seeking internships, projects, and mentorship opportunities to gain hands-on experience in this dynamic field.
 
 
 ## 🌐 Socials:
